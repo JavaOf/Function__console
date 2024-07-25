@@ -1,0 +1,22 @@
+#button, #button2{
+    width: 200px;
+    height: 50px;
+    color: gold;
+    background: black;
+    border: solid 4px gold;
+    border-radius: 20px;
+}
+body{
+    background: gray;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+    color: gold;
+}
+.de{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 50px;
+}
